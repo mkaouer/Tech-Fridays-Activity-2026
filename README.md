@@ -105,3 +105,11 @@ These should reflect skills that a high school student might realistically have.
 After completing all prompts, you should have a document with all the content you need for your website. Keep this document open for the next part.
 
 ---
+
+## Part 2: Build Your Website with Jules
+
+Now that you have your content ready, it's time to use Jules to create your website. Jules is an AI coding agent that can understand your instructions and make changes to code automatically. It integrates directly with GitHub, so your changes will be saved to your repository.
+
+### Step 2.1: Access Jules and Connect GitHub
+
+Open a new browser tab and go to [jules.google.com](https://jules.google.com). Sign in with your Google account. When prompted, click **Connect to GitHub account** and follow the authorization steps. This allows Jules to access and modify repositories on your behalf.
