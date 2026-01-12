@@ -54,3 +54,54 @@ The section should be 2-3 paragraphs long, written in first person, and should:
 - Mention my key strengths and interests
 - Be engaging and suitable for a high school student's portfolio
 ```
+
+**Prompt 2: Skills Section**
+
+```
+Based on my resume, create a list of my top 5 skills for my portfolio website. 
+For each skill, provide:
+- The skill name
+- A confidence percentage (between 50% and 95%)
+- A brief one-sentence description of my proficiency
+
+Format the output as a simple list.
+```
+
+**Prompt 3: Education Section**
+
+```
+Based on my resume, write content for the Education section of my portfolio. 
+Include:
+- School name
+- Years attended
+- A brief description of relevant coursework or achievements
+
+Format it so it can be easily added to a website.
+```
+
+**Prompt 4: Experience/Activities Section**
+
+```
+Based on my resume, create content for the Experience section of my portfolio. 
+This can include jobs, internships, volunteer work, or extracurricular activities.
+For each entry, include:
+- Position/Role title
+- Organization name
+- Time period
+- A brief description of responsibilities and achievements
+```
+
+**Prompt 5: Services/What I Do Section**
+
+```
+Based on my resume and interests, suggest 4 services or areas of expertise I could offer. 
+For each one, provide:
+- A title (e.g., "Web Design", "Data Analysis", "Graphic Design", "Tutoring")
+- A brief 1-2 sentence description
+
+These should reflect skills that a high school student might realistically have.
+```
+
+After completing all prompts, you should have a document with all the content you need for your website. Keep this document open for the next part.
+
+---
