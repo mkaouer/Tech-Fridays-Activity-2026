@@ -27,3 +27,30 @@ Before you begin, make sure you have the following:
 | **Your Resume** | Have a digital copy of your resume ready (PDF, Word document, or plain text). This will be the source material for your website content. |
 
 ---
+
+## Part 1: Generate Your Website Content with Google Gemini
+
+In this first part, you will use Google Gemini to analyze your resume and generate professional content for your portfolio website. Gemini is an AI assistant that excels at understanding documents and creating high-quality written content.
+
+### Step 1.1: Access Google Gemini
+
+Open your web browser and navigate to [gemini.google.com](https://gemini.google.com). Sign in with your Google account when prompted. Once signed in, you will see a chat interface where you can interact with Gemini.
+
+### Step 1.2: Upload Your Resume
+
+Look for the attachment icon (it looks like a paperclip or a plus sign) near the text input area. Click on it and select your resume file from your computer. Gemini can read PDF files, Word documents, and plain text files. After uploading, you should see your file attached to the conversation.
+
+### Step 1.3: Generate Content for Each Section
+
+Now you will ask Gemini to create content for the different sections of your portfolio website. Copy and paste each of the following prompts into Gemini, one at a time. After each response, copy the generated text into a separate document (like Google Docs or Notepad) so you can use it later.
+
+**Prompt 1: About Me Section**
+
+```
+Based on my attached resume, write a professional "About Me" section for my portfolio website. 
+The section should be 2-3 paragraphs long, written in first person, and should:
+- Introduce who I am
+- Highlight my passion for technology and learning
+- Mention my key strengths and interests
+- Be engaging and suitable for a high school student's portfolio
+```
