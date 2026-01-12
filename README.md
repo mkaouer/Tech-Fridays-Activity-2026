@@ -126,3 +126,10 @@ Before Jules can work on your website, you need to create your own copy (called 
 
 Now you have your own version of the portfolio template in your GitHub account!
 
+### Step 2.3: Connect Your Repository to Jules
+
+Go back to the Jules tab. In the repository selector dropdown, find and select your newly forked repository (it should appear as `your-username/vcard-personal-portfolio` or `your-username/my-portfolio`). Make sure the `master` or `main` branch is selected.
+
+### Step 2.4: Customize Your Website with Jules
+
+Now comes the exciting part! You will give Jules instructions to update the website with your personal information. Use the following prompts, replacing the placeholder text in brackets with your actual information.
