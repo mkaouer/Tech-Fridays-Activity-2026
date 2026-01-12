@@ -153,3 +153,66 @@ Make sure to update all instances where these values appear.
 ```
 
 Click **Give me a plan**. Jules will analyze the code and show you what changes it plans to make. Review the plan, and if it looks correct, click **Approve** to let Jules make the changes.
+
+
+**Task 2: Update the About Me Section**
+
+After the first task is complete, start a new task with this prompt:
+
+```
+Please update the "About me" section in index.html. Replace the existing two paragraphs 
+in the about-text section with the following content:
+
+[PASTE YOUR "ABOUT ME" CONTENT FROM GEMINI HERE]
+```
+
+Review and approve the plan.
+
+**Task 3: Update the Skills Section**
+
+```
+Please update the "My skills" section in index.html. Replace the existing skills 
+(Web design, Graphic design, Branding, WordPress) with my skills:
+
+[PASTE YOUR SKILLS FROM GEMINI HERE, formatted like:]
+- Skill 1: XX%
+- Skill 2: XX%
+- Skill 3: XX%
+- Skill 4: XX%
+- Skill 5: XX%
+
+Update both the skill names and the percentage values in the progress bars.
+```
+
+**Task 4: Update Education and Experience**
+
+```
+Please update the Resume section in index.html:
+
+For the Education timeline, replace the existing entries with:
+[PASTE YOUR EDUCATION CONTENT FROM GEMINI HERE]
+
+For the Experience timeline, replace the existing entries with:
+[PASTE YOUR EXPERIENCE CONTENT FROM GEMINI HERE]
+```
+
+**Task 5: Update the Services Section**
+
+```
+Please update the "What i'm doing" section in index.html. Replace the existing 
+four service items with:
+
+[PASTE YOUR SERVICES/WHAT I DO CONTENT FROM GEMINI HERE]
+```
+
+### Step 2.5: Create a Branch and Push Changes
+
+After each task, Jules will create the changes on a new branch. Once you have completed all your customizations:
+
+1. Jules will show you a summary of all changes made
+2. Click **Create branch** to save your changes
+3. Jules will provide a link to create a Pull Request on GitHub
+4. Go to GitHub and merge the Pull Request into your main branch
+
+---
+
